@@ -1,0 +1,2 @@
+# shortcutForAndroid
+shortcutForAndroid android创建快捷方式
